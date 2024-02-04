@@ -66,8 +66,11 @@ header{
     font-weight: bolder;
     color:#f9faf8;
     margin-bottom:-8px;
+    text-shadow: 4px 4px 1px #3882f6;
 }
-
+.first-main-content p{
+    text-align: justify;
+}
 .first-main-content p,a{
     font-size:18px;
     color:#e5e7eb;
